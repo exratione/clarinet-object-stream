@@ -1,0 +1,17 @@
+{
+  "curly": true,
+  "eqeqeq": false,
+  "indent": 2,
+  "latedef": true,
+  "node": true,
+  "noempty": true,
+  "quotmark": true,
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "globals": {
+    "beforeEach":false,
+    "describe": false,
+    "it": false
+  }
+}
