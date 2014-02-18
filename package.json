@@ -1,0 +1,33 @@
+{
+  "name": "clarinet-object-stream",
+  "description": "Wrap the Clarinet JSON parser with an object stream: JSON in, parse event objects out.",
+  "keywords": [
+    "clarinet",
+    "json",
+    "stream"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/exratione/clarinet-object-stream",
+  "author": "Reason <reason@exratione.com>",
+  "engines": {
+    "node": ">= 0.10.24"
+  },
+  "dependencies": {
+    "clarinet": "0.x.x"
+  },
+  "devDependencies": {
+    "chai": "1.x.x",
+    "mocha": "1.x.x"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec test/**/*.test.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exratione/clarinet-object-stream"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/exratione/clarinet-object-stream/raw/master/LICENSE"
+  }]
+}

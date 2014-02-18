@@ -1,0 +1,8 @@
+{
+  "string": "str",
+  "number": 3.14,
+  "subobject": {
+    "boolean": false,
+    "array": [1, "str"]
+  }
+}
