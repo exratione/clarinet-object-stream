@@ -1,6 +1,11 @@
 Changelog
 =========
 
+0.0.3
+-----
+
+  * Version number update to evade NPM issues.
+
 0.0.2
 -----
 
